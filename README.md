@@ -1,2 +1,1 @@
-# My-Resume
-# Resume This repository contains my latest resume.
+Resume This repository contains my latest resume.
